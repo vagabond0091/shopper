@@ -3,7 +3,7 @@
     justify-content: space-around;
     padding: 12px;
     box-shadow: 0 1px 3px -2px black;
-   max-width: 1366px;
+    max-width: 1366px;
 }
 .nav-logo{
     display: flex;
