@@ -28,11 +28,12 @@ const Footer = () => {
             <div className="footer-icons-container">
                 <img src={whatsapp_icon} alt="" />
             </div>
-            <div className="footer-copyright">
+           
+        </div>
+        <div className="footer-copyright">
                 <hr/>
                 <p>Copyright @ 2024 - All Right Reserved.</p>
             </div>
-        </div>
     </div>
   )
 }
