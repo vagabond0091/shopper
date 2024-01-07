@@ -8,6 +8,7 @@
     padding: 50px 150px;
     gap: 30px;
     background: linear-gradient(180deg, rgba(253,225,255,1) 100%, rgba(0,0,0,1) 100%);
+    margin-bottom: 60px;
 }
 .newsletter h1{
     color: #454545;
